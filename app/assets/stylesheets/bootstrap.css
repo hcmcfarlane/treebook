@@ -4815,8 +4815,9 @@ input[type="submit"].btn.btn-mini {
   color: #ffffff;
 }
 
+/*colour of text logo brand blue */
 .navbar-inverse .brand {
-  color: #F00C3D;
+  color: #269cf4;
 }
 
 .navbar-inverse .navbar-text {
